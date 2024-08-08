@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=ThomasVerhoeven1998)
+![](https://komarev.com/ghpvc/?username=ThomasVerhoeven1998&colar=brightgreen)
