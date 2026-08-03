@@ -86,4 +86,4 @@ I love giving back to open-source tools that empower modern cloud-native & event
   <i>"Automate standard tasks, observe everything, and keep the JVM warm."</i> ☕
 </p>
 
-![](https://komarev.com/ghpvc/?username=ThomasVerhoeven1998&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=ThomasVerhoeven1998&label=Profile%20views&color=0e75b6&style=for-the-badge)
