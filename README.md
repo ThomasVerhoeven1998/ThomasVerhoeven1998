@@ -16,8 +16,8 @@
 
 * ☕ **Backend Engineering:** Building and maintaining Java/Spring services across a broad microservice landscape.
 * 🚀 **Platform & Delivery:** Improving developer and release workflows with Jenkins, ArgoCD, Helm, and Kubernetes.
-* 🛡️ **Reliability & Performance:** Focused on production stability, bug fixing, and performance/scalability improvements.
-* 🗄️ **Data & Event-Driven Systems:** Regularly working with MySQL and CDC/event-driven patterns (including Debezium and migration tooling).
+* 🛡️ **Reliability & Performance:** Focused on production stability, and performance/scalability improvements.
+* 🗄️ **Data & Event-Driven Systems:** Regularly working with MySQL/Percona and CDC/event-driven patterns (including Debezium).
 * 🤝 **Cross-Team Impact:** Contributing changes across many repositories to keep the wider platform healthy and moving.
 
 ---
@@ -28,14 +28,14 @@
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/JobRunr-333333?style=for-the-badge&logo=java&logoColor=white" alt="JobRunr" />
+<img src="https://img.shields.io/badge/JobRunr-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="JobRunr" />
 </p>
 
 ### 🗄️ Database & Streaming
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Percona-1D2B3A?style=for-the-badge&logo=database&logoColor=white" alt="Percona" />
-  <img src="https://img.shields.io/badge/ProxySQL-00599C?style=for-the-badge&logo=proxysql&logoColor=white" alt="ProxySQL" />
+  <img src="https://img.shields.io/badge/Percona-1D2B3A?style=for-the-badge&logo=mysql&logoColor=white" alt="Percona" />
+  <img src="https://img.shields.io/badge/ProxySQL-00599C?style=for-the-badge&logo=mysql&logoColor=white" alt="ProxySQL" />
   <img src="https://img.shields.io/badge/Debezium-FF0000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Debezium" />
 </p>
 
@@ -43,6 +43,7 @@
 <p>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Harness-00B388?style=for-the-badge&logoColor=white" alt="Harness" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
@@ -50,7 +51,7 @@
 ### 👁️ Observability & Telemetry
 <p>
   <img src="https://img.shields.io/badge/Honeycomb-E59100?style=for-the-badge&logo=honeycomb&logoColor=white" alt="Honeycomb" />
-  <img src="https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=dark" alt="New Relic" />
+  <img src="https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" />
 </p>
 
 ---
