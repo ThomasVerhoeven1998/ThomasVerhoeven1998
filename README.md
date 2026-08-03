@@ -68,8 +68,8 @@ I love giving back to open-source tools that empower modern cloud-native & event
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasVerhoeven1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasVerhoeven1998&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThomasVerhoeven1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasVerhoeven1998&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 
 </div>
 
