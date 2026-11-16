@@ -71,7 +71,8 @@ I love giving back to open-source tools that empower modern cloud-native & event
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasVerhoeven1998&theme=tokyonight" alt="GitHub Profile Summary" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThomasVerhoeven1998&theme=github_dark" alt="GitHub Stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomasVerhoeven1998&theme=github_dark" alt="Languages by Repository" />
 
 </div>
 
