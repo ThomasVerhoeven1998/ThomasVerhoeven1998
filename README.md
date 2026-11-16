@@ -62,6 +62,8 @@ I love giving back to open-source tools that empower modern cloud-native & event
 
 * 🌌 **[pulsar-resources-operator](https://github.com/datastax/pulsar-resources-operator):** Kubernetes Operator for managing Apache Pulsar resources natively.
 * 🤖 **[modelina](https://github.com/asyncapi/modelina):** AsyncAPI library for generating data models from various specification formats.
+* 🔄 **[Debezium](https://github.com/debezium/debezium) and [Debezium Server](https://github.com/debezium/debezium-server):** Contributions to OpenTelemetry tracing, context propagation, and JDBC offset/history stores.
+* ⏱️ **[JobRunr](https://github.com/jobrunr/jobrunr):** Added a MySQL/MariaDB job statistics view using `SQL SECURITY INVOKER`.
 
 ---
 
@@ -69,9 +71,7 @@ I love giving back to open-source tools that empower modern cloud-native & event
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThomasVerhoeven1998&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-[//]: # (<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomasVerhoeven1998&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasVerhoeven1998&theme=tokyonight" alt="GitHub Profile Summary" />
 
 </div>
 
