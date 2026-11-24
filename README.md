@@ -67,17 +67,6 @@ I love giving back to open-source tools that empower modern cloud-native & event
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=ThomasVerhoeven1998&show_icons=true&include_all_commits=true&show=contributions&theme_light=light_github&theme_dark=dark_github" alt="GitHub Stats and Contributions" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThomasVerhoeven1998&layout=compact&langs_count=6&theme_light=light_github&theme_dark=dark_github" alt="Top Languages" />
-
-</div>
-
----
-
 ## 📬 Connect with Me
 
 <p align="center">
